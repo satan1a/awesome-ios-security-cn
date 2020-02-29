@@ -41,10 +41,27 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 
 ## 工具
 
+- Frida(frida, frida-tools)：[Link](https://frida.re/)
+
 - Lookin，腾讯开发，类似Reveal：[Link](https://lookin.work/)
+
 - Hopper Disassembler,macOS和Linux反汇编程序：[Link](https://www.hopperapp.com/)
 
+- IPA的获取方法和工具：[Link](https://www.jianshu.com/p/73e65b0a9b86)
 
+- Appsync-Unified，IPA安装文件面验证，在iOS13上安装教程：[Link](https://kubadownload.com/news/appsync-unified)
+
+- KubaDownload, 有一些较新Cydia软件的下载站：[Link](https://kubadownload.com/)
+
+- Filza，功能强大的iOS文件管理器，适配iOS13：[Link](https://kubadownload.com/news/filza-file-manager)
+
+- Clutch，[脱壳](https://www.jianshu.com/p/79d2d9f3958c)工具，比较经典，但现在有需要应用都无法用其脱壳：[Link](https://github.com/KJCracks/Clutch)
+
+- dumpdecrypted，脱壳工具：[Link](https://github.com/stefanesser/dumpdecrypted/)
+
+- Object,  基于Frida的一个注入框架：[Link](https://github.com/sensepost/objection)
+
+  
 
 ## 开源资料
 
