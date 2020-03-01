@@ -8,10 +8,11 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 
 ## 书籍📚
 
-- 《九阴真经 iOS黑客攻防秘籍》，陈德，[博客](https://www.exchen.net/)
+- 《九阴真经·iOS黑客攻防秘籍》，陈德，[博客](https://www.exchen.net/)
 - 《 iOS应用逆向与安全之道》，罗巍，网名飘云，“飘云阁安全论坛”创始人
-
-
+- 《iOS应用逆向与安全》，刘培庆
+- 《iOS应用逆向工程》，沙梓社、吴航
+- 《iOS 13 App程式设计实战心法》，来自台湾翻译，是最新的Swift5 + Xcode11：[GitBook](https://www.appcoda.com.tw/learnswift/get-started.html)，[英文原版](https://www.appcoda.com/learnswift/get-started.html)
 
 ## 博客
 
@@ -83,6 +84,17 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 
 - Awesome iOS Application Security，可以看看里面整理的工具清单，比较全：[Link](https://enciphers.com/awesome-ios-application-security/)
 - NowSecure的移动应用安全指南：[Link](https://books.nowsecure.com/secure-mobile-development/en/android/use-broadcasts-carefully.html)
+- 
+
+
+
+## 官方
+
+- Xcode + Swift：[Link](https://developer.apple.com/swift/resources/)
+
+- Swift：[Link](https://developer.apple.com/videos/developer-tools/swift/)
+
+  
 
 
 
@@ -91,8 +103,9 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 ## 开发相关
 
 - 在写一个iOS应用之前必须做的7件事：[Link]()
-
 - iOS大牛技术博客收藏贴：[Link](https://www.jianshu.com/p/c55c6b30ef28)
+- 知乎专栏上的一个iOS开发学习清单：[Link](https://zhuanlan.zhihu.com/p/53217607)
+- 从零开始学iOS7开发系列教程，王寒对iOS Appreciate的翻译：[Link](https://zhuanlan.zhihu.com/p/19652676)
 
 
 
