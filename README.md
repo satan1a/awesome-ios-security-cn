@@ -13,6 +13,7 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 - 《iOS应用逆向与安全》，刘培庆
 - 《iOS应用逆向工程》，沙梓社、吴航
 - 《iOS 13 App程式设计实战心法》，来自台湾翻译，是最新的Swift5 + Xcode11：[GitBook](https://www.appcoda.com.tw/learnswift/get-started.html)，[英文原版](https://www.appcoda.com/learnswift/get-started.html)
+- 《iOS安全wiki》，GitBook：[Link](https://wizardforcel.gitbooks.io/ios-sec-wiki/content/chapter1/issue1-1.html)
 
 ## 博客
 
@@ -33,8 +34,8 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 ## 论坛
 
 - 看雪，iOS安全小组：[Link](https://bbs.pediy.com/thread-212685.htm)
+- FreeBuf, iOS板块: [Link]([https://www.freebuf.com/tag/ios%e5%ae%89%e5%85%a8](https://www.freebuf.com/tag/ios安全))
 - 52pojie，移动安全板块，iOS文章：[Link](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=65&filter=typeid&typeid=195)
-
 - iOS安全论坛，ioshacker.net：[Link](https://www.ioshacker.net/forum-38-1.html)
 - 飘云阁，《 iOS应用逆向与安全之道》作者的论坛：[Link](https://www.chinapyg.com/thread-135989-1-1.html)
 
@@ -43,26 +44,23 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 ## 工具
 
 - Frida(frida, frida-tools)：[Link](https://frida.re/)
-
 - Lookin，腾讯开发，类似Reveal：[Link](https://lookin.work/)
-
 - Hopper Disassembler,macOS和Linux反汇编程序：[Link](https://www.hopperapp.com/)
-
 - IPA的获取方法和工具：[Link](https://www.jianshu.com/p/73e65b0a9b86)
-
 - Appsync-Unified，IPA安装文件面验证，在iOS13上安装教程：[Link](https://kubadownload.com/news/appsync-unified)
-
 - KubaDownload, 有一些较新Cydia软件的下载站：[Link](https://kubadownload.com/)
-
 - Filza，功能强大的iOS文件管理器，适配iOS13：[Link](https://kubadownload.com/news/filza-file-manager)
-
 - Clutch，[脱壳](https://www.jianshu.com/p/79d2d9f3958c)工具，比较经典，但现在有需要应用都无法用其脱壳：[Link](https://github.com/KJCracks/Clutch)
-
 - dumpdecrypted，脱壳工具：[Link](https://github.com/stefanesser/dumpdecrypted/)
-
 - Object,  基于Frida的一个注入框架：[Link](https://github.com/sensepost/objection)
 
-  
+
+
+## 漏洞研究
+
+- 《远程iPhone Exploitation Part 1：iMessage与CVE-2019-8641》：[Link](远程iPhone Exploitation Part 1：iMessage与CVE-2019-8641)
+
+
 
 ## 开源资料
 
@@ -78,13 +76,10 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 
 
 
-
-
 ## 清单
 
 - Awesome iOS Application Security，可以看看里面整理的工具清单，比较全：[Link](https://enciphers.com/awesome-ios-application-security/)
 - NowSecure的移动应用安全指南：[Link](https://books.nowsecure.com/secure-mobile-development/en/android/use-broadcasts-carefully.html)
-- 
 
 
 
@@ -94,7 +89,6 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 
 - Swift：[Link](https://developer.apple.com/videos/developer-tools/swift/)
 
-  
 
 
 
