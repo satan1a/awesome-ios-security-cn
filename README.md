@@ -65,14 +65,13 @@ iOS安全是一个不错的安全研究方向，但中文的资料与整理还�
 ## 开源资料
 
 - https://github.com/vaib25vicky/awesome-mobile-security
-
 - https://github.com/vsouza/awesome-ios
-
 - https://github.com/ashishb/osx-and-ios-security-awesome
 - https://github.com/ansjdnakjdnajkd/iOS
 - https://github.com/ivRodriguezCA/RE-iOS-Apps
 - https://github.com/felixgr/secure-ios-app-dev
 - https://github.com/kai5263499/osx-security-awesome
+- https://wizardforcel.gitbooks.io/ios-sec-wiki/
 
 
 
